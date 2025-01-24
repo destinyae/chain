@@ -27,7 +27,7 @@ BandChain - Decentralized Data Delivery Network<br/><br/>
 
 ## What is BandChain?
 
-BandChain is a **cross-chain data oracle platform** that aggregates and connects real-world data and APIs to smart contracts. It is designed to be **compatible with most smart contract and blockchain development frameworks**. It does the heavy lifting jobs of pulling data from external sources, aggregating them, and packaging them into the format that’s easy to use and verifiable efficiently across multiple blockchains.
+BandChain is a **cross-chain data oracle platform** that aggregates and connects real-world data and APIs to smart contracts. It is designed to be **compatible with most smart contract and blockchain development frameworks**. It does the heavy lifting jobs of pulling data from external sources, aggregating them, and packaging them into a format that’s easy to use and verifiable efficiently across multiple blockchains.
 
 Band's flexible oracle design allows developers to **query any data** including real-world events, sports, weather, random numbers and more. Developers can create custom-made oracles using WebAssembly to connect smart contracts with traditional web APIs within minutes.
 
@@ -40,7 +40,7 @@ Please refer to [this documentation](https://docs.bandchain.org/node-validators/
 We recommend the following for running a BandChain Validator:
 
 - **2 or more** CPU cores
-- **8 GB** of RAM (16 GB in case on participate in mainnet upgrade)
+- **8 GB** of RAM (16 GB in case of participating in mainnet upgrade)
 - At least **100GB** of disk storage
 
 **Step 1. Install Golang**
